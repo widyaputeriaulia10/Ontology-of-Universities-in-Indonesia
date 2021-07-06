@@ -1,0 +1,6 @@
+educationalCredentialAwarded some (requiredCourse value Matematika)
+requiredCourse some (educationalCredentialAwarded value M.Si)
+organizes some (requiredCourse value Bioinformatika)
+requiredCourse some (organizes value FITB)
+organizes some (educationalCredentialAwarded value M.Si)
+educationalCredentialAwarded some (organizes value FMIPA)
